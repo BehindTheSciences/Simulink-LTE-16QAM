@@ -12,3 +12,5 @@ If you want to watch some tutorials and read more documentation about this model
 Thank you!
 
 Natalia (behindthesciences.com)
+
+************PLEASE, DON'T FORGET TO REFERENCE THE AUTHOR IF YOU USE THE MODEL IN YOUR WORK. THANKS! ;-)************
