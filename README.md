@@ -1,5 +1,5 @@
 # Simulink-LTE-16QAM
-This is one of the first approaches to an LTE Simulink model. It is based on  Turbo Coding, 16-QAM, OFDM and pilots. 
+This is one of the first approaches to an LTE Simulink model that was developed in the world, back in 2013. It is based on  Turbo Coding, 16-QAM, OFDM and pilots. 
 
 You can select the parameters for the Rayleigh Channel and the noise in the AWGN channel, then you can observe the changes in the signal's spectrum and in the constellation. In addition, the BER is obtained.
 
